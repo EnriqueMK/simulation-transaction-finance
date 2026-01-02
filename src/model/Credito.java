@@ -3,6 +3,7 @@ package model;
 import java.time.YearMonth;
 import java.util.concurrent.ThreadLocalRandom;
 
+import service.ProcessarTransacao;
 import validation.Credito.LimiteCreditoValidar;
 
 public class Credito implements Cartao {
@@ -76,7 +77,6 @@ public class Credito implements Cartao {
     // Necessário criar validador de transação
     @Override
     public boolean autorizarPagamento(double valor) {
-        return true;
-
+        return ProcessarTransacao.processamento(this, valor);
     }
 }
