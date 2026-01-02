@@ -21,8 +21,8 @@ O projeto utiliza uma organização de branches para facilitar o monitoramento, 
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![Git Bash](https://img.shields.io/badge/Git%20Bash-000000?style=for-the-badge&logo=git&logoColor=white)
+- ☕ Java
+- 🖥️ Git Bash
 
 ---
 
