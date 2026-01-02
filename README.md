@@ -1,12 +1,12 @@
-# Simulation Transaction Finance
+# 🏦 Simulation Transaction Finance
 
 Bem-vindo ao **Simulation Transaction Finance**, um programa desenvolvido em Java, utilizando os conceitos de Programação Orientada a Objetos (POO).
 
 Este sistema simula transações financeiras com cartão de crédito, permitindo o cadastro de clientes, a vinculação de cartões, a realização, o processamento das transações e armazena as informações geradas juntamente com as transações feitas.
 
---
+---
 
-<h2>Estrutura de Branches</h2>
+<h2>🌿 Estrutura de Branches</h2>
 
 O projeto utiliza uma organização de branches para facilitar o monitoramento, a rastreabilidade, a manutenção e a correção do código.
 
@@ -17,15 +17,16 @@ O projeto utiliza uma organização de branches para facilitar o monitoramento, 
 <strong>fix/bugs-validation</strong> → Correção de bugs identificados durante o desenvolvimento das validações  
 <strong>chore/project-organization</strong> → Organização e manutenção do projeto
 
---
+---
 
-<h2>Tecnologias Utilizadas</h2>
-- Linguagem Java
-- Git Bash
+<h2>🛠️ Tecnologias Utilizadas</h2>
 
---
+- ☕ Java
+- 🖥️ Git Bash
 
-<h2>Mecanismos</h2>
+---
+
+<h2>⚙️ Mecanismos</h2>
 
 - Cadastrar clientes
 - Cadastrar cartão
